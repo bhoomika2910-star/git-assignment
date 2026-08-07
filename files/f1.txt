@@ -1,2 +1,2 @@
 "first file inside f1.txt"
-
+"Modified in master branch"
