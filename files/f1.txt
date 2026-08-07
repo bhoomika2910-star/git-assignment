@@ -1,3 +1,5 @@
 "first file inside f1.txt"
 Modified in second branch
-"Changed in second branch for merge conflict"
+"Changed in second branch for merge conflict
+"modifed in first branch"
+

@@ -1,2 +1,6 @@
 "this is the third file inside f3.txt"
+<<<<<<< HEAD
 "Modified in second branch"
+=======
+"Modified in third  branch" 
+>>>>>>> first
