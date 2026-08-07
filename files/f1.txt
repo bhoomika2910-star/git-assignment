@@ -1,6 +1,8 @@
+
 "first file inside f1.txt"
 "Modified in master branch"
-
 Modified in second branch
 "Changed in second branch for merge conflict
 "modifed in first branch"
+"first file inside f1.txt"
+"Updated in third branch - different from master"

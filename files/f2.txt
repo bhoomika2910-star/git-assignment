@@ -1,13 +1,7 @@
 
 "this is second file inside f2.txt"
-<<<<<<< HEAD
 "Modified in master branch"
-=======
-<<<<<<< HEAD
 "Modified in second branch"
 "Changed in second branch for merge conflict"
-=======
 "Modified in first branch inside second file"
->>>>>>> first
->>>>>>> second
-
+"Updated in third branch - different from master"
