@@ -1,0 +1,2 @@
+"first file inside f1.txt"
+
