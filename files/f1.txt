@@ -6,3 +6,4 @@ Modified in second branch
 "modifed in first branch"
 "first file inside f1.txt"
 "Updated in third branch - different from master"
+Master branch different modification
