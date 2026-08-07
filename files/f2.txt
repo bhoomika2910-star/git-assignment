@@ -1,4 +1,4 @@
 
 "this is second file inside f2.txt"
-
+"Modified in second branch"
 
