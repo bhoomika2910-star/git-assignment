@@ -1,2 +1,2 @@
-
 "this is the third file inside f3.txt"
+"Updated in third branch - different from master"

@@ -1,2 +1,3 @@
-"first file inside f1.txt"
 
+"first file inside f1.txt"
+"Updated in third branch - different from master"
