@@ -5,5 +5,9 @@
 "Changed in second branch for merge conflict"
 "Modified in first branch inside second file"
 "Updated in third branch - different from master"
+
 Step 19 modification in master
 Master final modification
+
+Third branch final modification
+
