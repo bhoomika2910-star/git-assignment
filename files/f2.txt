@@ -2,3 +2,4 @@
 "this is second file inside f2.txt"
 
 "Updated in third branch - different from master"
+Third branch final modification
