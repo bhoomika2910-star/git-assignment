@@ -1,3 +1,7 @@
 this is file 5
+<<<<<<< HEAD
 "Modified in third branch"
+=======
+"Modified after merging first into second"
+>>>>>>> second
 

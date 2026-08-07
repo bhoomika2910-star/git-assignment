@@ -1,3 +1,8 @@
+<<<<<<< HEAD
 "this is the seond branch and 4th file
 "
 "Modified in third branch"
+=======
+"this is the seond branch and 4th file"
+"Modified after merging first into second"
+>>>>>>> second
